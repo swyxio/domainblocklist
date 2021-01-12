@@ -35,7 +35,12 @@ domains that are mostly just automated reposts of content sites like CSS Tricks.
     'https://ntdln.com',
     'https://jczh.xyz',
     'https://pazukong.wordpress.com',
-    'https://fullstackfeed.com'
+    'https://fullstackfeed.com',
+    'https://thebrandingstore.net',
+    'https://development-tools.net',
+    'https://itdirectory.my',
+    'https://www.sacramentowebdesigngroup.com',
+    'https://engrmks.com.ng'
   ]
 ```
 
