@@ -40,7 +40,8 @@ domains that are mostly just automated reposts of content sites like CSS Tricks.
     'https://development-tools.net',
     'https://itdirectory.my',
     'https://www.sacramentowebdesigngroup.com',
-    'https://engrmks.com.ng'
+    'https://engrmks.com.ng',
+    'https://www.xspdf.com/',
   ]
 ```
 
