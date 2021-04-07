@@ -78,6 +78,8 @@ domains that are mostly just automated reposts of content sites like CSS Tricks.
 
 because if you do any sort of link monitoring this happens: https://webmention.io/api/mentions?page=0&per-page=20&target=https://www.swyx.io/svelte-sites-react-apps/
 
+([example from Max Bock](https://twitter.com/mxbck/status/1379793156494012417?s=20))
+
 <details>
 <summary>
 list of spam results
