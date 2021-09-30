@@ -546,3 +546,5 @@ list of spam results
       .then(x => x.filter(link => !blocklist.includes(new URL(link.source).origin)))
   }
 ```
+
+i use this on my blog https://github.com/sw-yx/swyxdotio/blob/master/src/components/WebMentions/WebMentions.svelte
