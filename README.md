@@ -1,6 +1,8 @@
 # domainblocklist
 
-domains that are mostly just automated reposts of content sites like CSS Tricks. you are welcome to contribute, swyx will vet!
+domains that are mostly just automated reposts of content sites like CSS Tricks. (apparently this is called [spun content](https://twitter.com/monicalent/status/1344194349446393856?s=20))
+
+you are welcome to contribute, swyx will vet!
 
 ```js
   let blocklist = [
