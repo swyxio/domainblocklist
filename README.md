@@ -70,7 +70,18 @@ domains that are mostly just automated reposts of content sites like CSS Tricks.
     'http://gotutoral.com', 
     'http://techfans.co.uk', 
     'http://pikopong.com', 
-    'http://marketingsolution.com.au'
+    'http://marketingsolution.com.au',
+    'https://reportwire.org',
+    'https://www.codeificant.com',
+    'https://tipsxd.com',
+    'https://wpdesigns.live',
+    'https://gigatechnews.com',
+    'https://blogs.thebitx.com',
+    'https://updatetech.xyz',
+    'https://neoweb4u.com',
+    'https://www.websjohn.com',
+    'https://www.webhostpolice.com',
+    'https://lzomedia.com/',
   ]
 ```
 
