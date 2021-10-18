@@ -84,6 +84,8 @@ you are welcome to contribute, swyx will vet!
     'https://www.websjohn.com',
     'https://www.webhostpolice.com',
     'https://lzomedia.com/',
+    'https://jateng.co/',
+    'https://news.priviw.com/',
   ]
 ```
 
