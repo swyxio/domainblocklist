@@ -83,9 +83,15 @@ you are welcome to contribute, swyx will vet!
     'https://neoweb4u.com',
     'https://www.websjohn.com',
     'https://www.webhostpolice.com',
-    'https://lzomedia.com/',
-    'https://jateng.co/',
-    'https://news.priviw.com/',
+    'https://lzomedia.com',
+    'https://jateng.co',
+    'https://news.priviw.com',
+    'https://movilgadget.com',
+    'https://kitdeveloper.ru',
+    '.thats.im',     // 'https://bdbloger.thats.im', 'https://mdsohel.thats.im/', 'https://sazelab.thats.im/'
+    '.cu.ma', // 'https://bdbloger.cu.ma', 'https://mdsazel.cu.ma/'
+    'https://reactjsexample.com'
+    // dont put in trailing slashes, as the DOM's URL.origin api doesnt give it to you so it will fail to filter
   ]
 ```
 
