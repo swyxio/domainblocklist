@@ -1,6 +1,6 @@
 # domainblocklist
 
-domains that are mostly just automated reposts of content sites like CSS Tricks. (apparently this is called [spun content](https://twitter.com/monicalent/status/1344194349446393856?s=20))
+domains that are mostly just automated reposts of content sites like CSS Tricks. (apparently this is called [spun content](https://twitter.com/monicalent/status/1344194349446393856?s=20) - [full context here](https://twitter.com/swyx/status/1344095187098685440))
 
 you are welcome to contribute, swyx will vet!
 
