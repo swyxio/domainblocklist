@@ -98,7 +98,10 @@ you are welcome to contribute, swyx will vet!
     'https://wpnewshub.com',
     'https://codinghindi.in',
     'https://programmer.chimpymail.com',
-    'https://sayed.work'
+    'https://sayed.work',
+    'https://infos.by',
+    'https://data-science-austria.at',
+    'https://www.techyrack.com'
     // dont end any of these with  trailing slashes, as the DOM's URL.origin api doesnt give it to you so it will fail to filter
   ]
 ```
