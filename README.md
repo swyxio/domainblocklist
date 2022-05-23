@@ -90,8 +90,15 @@ you are welcome to contribute, swyx will vet!
     'https://kitdeveloper.ru',
     '.thats.im',     // 'https://bdbloger.thats.im', 'https://mdsohel.thats.im/', 'https://sazelab.thats.im/'
     '.cu.ma', // 'https://bdbloger.cu.ma', 'https://mdsazel.cu.ma/'
-    'https://reactjsexample.com'
-    // dont put in trailing slashes, as the DOM's URL.origin api doesnt give it to you so it will fail to filter
+    'https://reactjsexample.com',
+    'https://dentedreality.com.au',
+    'https://platoblockchain.net',
+    'http://aayugcreation.com',
+    'https://www.67nj.org',
+    'https://wpnewshub.com',
+    'https://codinghindi.in',
+    'https://programmer.chimpymail.com'
+    // dont end any of these with  trailing slashes, as the DOM's URL.origin api doesnt give it to you so it will fail to filter
   ]
 ```
 
