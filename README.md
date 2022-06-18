@@ -103,6 +103,10 @@ you are welcome to contribute, swyx will vet!
     'https://data-science-austria.at',
     'https://www.techyrack.com',
     'your.cheer.id', // decided to stop adding scheme here https://github.com/sw-yx/domainblocklist/issues/7
+    'pvkas.ml',
+    'www.theworldwidecode.com',
+    'www.iitter.com',
+    'new.pixel-forge.ca',
     'adfallon.wordpress.com',
     'digitalgodzilla.wordpress.com',
     'planetdigital963889394.wordpress.com',
